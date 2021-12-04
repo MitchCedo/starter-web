@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mitch Cedo mitch.cedo@gmail.com @nqyds
 
 # THANKS
 
